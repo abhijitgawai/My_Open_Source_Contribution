@@ -24,3 +24,4 @@ My Merged Pull Request
 
 
 do new pr on https://app.buildspace.so/projects/CObd6d35ce-3394-4bd8-977e-cbee82ae07a3/lessons/LE24d998db-8b03-4bc0-abe0-875707daf30a
+raise issue on https://app.buildspace.so/projects/CObd6d35ce-3394-4bd8-977e-cbee82ae07a3/lessons/LE97b3e2e8-b4dd-4b2e-a52c-954c63bbc5da start_stuff_off doesnt exist
