@@ -45,3 +45,5 @@ raise issue on https://app.buildspace.so/projects/CObd6d35ce-3394-4bd8-977e-cbee
 add '  let account = ' await program.account.baseAccount.fetch(baseAccount.publicKey); \n console.log('👀 GIF Count', account.totalGifs.toString())
 
 add liquity whitepaper link in whitepaper repo
+
+liquity flow of ether in liquity providetosp and stake function
