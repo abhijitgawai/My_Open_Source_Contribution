@@ -3,6 +3,11 @@ My Merged Pull Request
 
 <br>
 
+## Matic Network (Polygon)
+* [#808](https://github.com/maticnetwork/matic-docs/pull/808) Fixed broken URL
+<br>
+
+
 ## free-programming-books Repo
 
  * [#6004](https://github.com/EbookFoundation/free-programming-books/pull/6004) Corrected link for geeksforgeeks.com
