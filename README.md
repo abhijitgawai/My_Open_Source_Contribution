@@ -52,3 +52,5 @@ add '  let account = ' await program.account.baseAccount.fetch(baseAccount.publi
 add liquity whitepaper link in whitepaper repo
 
 liquity flow of ether in liquity providetosp and stake function
+
+Ether in the system lives in three Pools
