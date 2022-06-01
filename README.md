@@ -5,6 +5,9 @@ My Merged Pull Request
 
 ## Matic Network (Polygon)
 * [#808](https://github.com/maticnetwork/matic-docs/pull/808) Fixed broken URL
+
+
+* [#880](https://github.com/maticnetwork/matic-docs/pull/880) Fixed Broken URL
 <br>
 
 
