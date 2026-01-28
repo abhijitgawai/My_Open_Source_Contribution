@@ -10,14 +10,16 @@
 
 <br>
 
-* [#808](https://github.com/maticnetwork/matic-docs/pull/808) Fixed broken URL (Matic Network/Polygon (Docs) Repo)
+* [WazirX API](https://github.com/WazirX/wazirx-connector-python/pull/18) Refactor API Key Handling and Fix Python Version Check (WazirX Repo)
+
+* [Uniswap Docs](https://github.com/Uniswap/sybil-verifier-worker/pull/11) Updated Documentation (Uniswap Marketplace Repo)
+
+* [Gearbox Docs](https://github.com/Uniswap/sybil-verifier-worker/pull/11) Updated Documentation (Gearbox Protocol Repo)
+
+* [Matic/Polygon Docs](https://github.com/maticnetwork/matic-docs/pull/808) Fixed broken URL (Matic Network/Polygon (Docs) Repo)
 
 
-* [#880](https://github.com/maticnetwork/matic-docs/pull/880) Fixed Broken URL (Matic Network/Polygon (Docs) Repo)
-
-* [#11](https://github.com/Uniswap/sybil-verifier-worker/pull/11) Updated Documentation (Uniswap Marketplace Repo)
-
-* [#1](https://github.com/Uniswap/sybil-verifier-worker/pull/11) Updated Documentation (Gearbox Protocol Repo)
+* [Matic/Polygon Docs](https://github.com/maticnetwork/matic-docs/pull/880) Fixed Broken URL (Matic Network/Polygon (Docs) Repo)
 <br>
 
 
